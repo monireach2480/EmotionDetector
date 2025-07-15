@@ -21,8 +21,18 @@ EmotionDetector/
 ├── server.py
 ├── requirements.txt
 ├── README.md
-└── EmotionDetection/
-    └── emotion_detection.py
+├── test_emotion_detection.py
+├── LICENSE
+├── .gitignore
+├── .venv/
+├── EmotionDetection/
+│   ├── __init__.py
+│   └── emotion_detection.py
+├── screenshots/
+├── static/
+│   └── mywebscript.js
+└── templates/
+    └── index.html
 ```
 
 ---
